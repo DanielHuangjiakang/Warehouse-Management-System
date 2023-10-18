@@ -7,7 +7,7 @@
   
 </div>
 
-### Click on the image to jump to the warehouse management system promotional video
+#### Click on the image to jump to the warehouse management system promotional video
 
 ### <p style="text-align: right;">2023.1.19 Daniel Huang</p>
 
