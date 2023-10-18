@@ -1,5 +1,5 @@
 # Warehouse Management System
-
+### <p style="text-align: right;">2023.1.19 Daniel Huang</p>
 <p align="center">
 <div align="center">
   
@@ -8,9 +8,6 @@
 </div>
 
 #### Click on the image to jump to the warehouse management system promotional video
-
-### <p style="text-align: right;">2023.1.19 Daniel Huang</p>
-
 >## Purpose:
 >>#### What will the application do?
 >- The application is designed to assist merchants in efficiently 
