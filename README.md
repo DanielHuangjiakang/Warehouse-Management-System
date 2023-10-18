@@ -1,5 +1,4 @@
 # Warehouse Management System
-### <p style="text-align: right;">2023.1.19 Daniel Huang</p>
 <p align="center">
 <div align="center">
   
@@ -94,4 +93,5 @@ you will see the pop-up window, and click yes to reload data from database.
 > By implementing these changes, I could significantly enhance the quality of my code and ensure that 
 > it is more readable, reusable, and maintainable.
 
+### <p style="text-align: right;">2023.1.19 Daniel Huang</p>
 
