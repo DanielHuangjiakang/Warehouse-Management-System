@@ -1,0 +1,132 @@
+{
+    "ItemRecord": [
+        {
+            "quantity": 100,
+            "name": "apple",
+            "location": "+"
+        },
+        {
+            "quantity": 100,
+            "name": "apple",
+            "location": "+"
+        },
+        {
+            "quantity": 100,
+            "name": "tube",
+            "location": "+"
+        },
+        {
+            "quantity": 200,
+            "name": "pear",
+            "location": "+"
+        },
+        {
+            "quantity": 100,
+            "name": "apple",
+            "location": "+"
+        },
+        {
+            "quantity": 299,
+            "name": "chair",
+            "location": "+"
+        },
+        {
+            "quantity": 200,
+            "name": "apple",
+            "location": "-"
+        },
+        {
+            "quantity": 50,
+            "name": "apple",
+            "location": "-"
+        },
+        {
+            "quantity": 100,
+            "name": "grape",
+            "location": "+"
+        },
+        {
+            "quantity": 200,
+            "name": "apple",
+            "location": "+"
+        },
+        {
+            "quantity": 34,
+            "name": "apple",
+            "location": "+"
+        },
+        {
+            "quantity": 100,
+            "name": "apple",
+            "location": "+"
+        },
+        {
+            "quantity": 100,
+            "name": "apple",
+            "location": "-"
+        },
+        {
+            "quantity": 100,
+            "name": "apple",
+            "location": "+"
+        },
+        {
+            "quantity": 50,
+            "name": "apple",
+            "location": "-"
+        },
+        {
+            "quantity": 300,
+            "name": "apple",
+            "location": "+"
+        },
+        {
+            "quantity": 200,
+            "name": "apple",
+            "location": "+"
+        },
+        {
+            "quantity": 200,
+            "name": "apple",
+            "location": "+"
+        },
+        {
+            "quantity": 300,
+            "name": "apple",
+            "location": "-"
+        }
+    ],
+    "Items": [
+        {
+            "quantity": 334,
+            "name": "apple",
+            "location": "B"
+        },
+        {
+            "quantity": 100,
+            "name": "tube",
+            "location": "C"
+        },
+        {
+            "quantity": 200,
+            "name": "pear",
+            "location": "E"
+        },
+        {
+            "quantity": 299,
+            "name": "chair",
+            "location": "A"
+        },
+        {
+            "quantity": 100,
+            "name": "grape",
+            "location": "A"
+        },
+        {
+            "quantity": 400,
+            "name": "apple",
+            "location": "A"
+        }
+    ],
+    "Name": "Daniels Warehouse"
+}
