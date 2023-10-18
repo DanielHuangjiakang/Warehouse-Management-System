@@ -1,11 +1,13 @@
 # Warehouse Management System
 
 <p align="center">
-
 <div align="center">
+  
 [<img src="https://github.com/DanielHuangjiakang/Warehouse-System/blob/main/promotional_image.png?raw=true" width="600" height="300"/>](https://www.youtube.com/watch?v=fHfPgDkZsp8)
+  
 </div>
-### <p style="font-weight: bold; color: blue; text-align: center;">Click on the image to jump to the warehouse management system promotional video</p>
+
+### Click on the image to jump to the warehouse management system promotional video
 
 ### <p style="text-align: right;">2023.1.19 Daniel Huang</p>
 
