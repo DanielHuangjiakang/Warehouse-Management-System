@@ -1,7 +1,7 @@
 # Warehouse Management System
 
 <p align="center">
-<img src="[/Applications/project_t4h5d/promotional image.png](https://github.com/DanielHuangjiakang/Warehouse-System/blob/main/promotional_image.png?raw=true)" width="600" height="300">
+<img src="https://github.com/DanielHuangjiakang/Warehouse-System/blob/main/promotional_image.png?raw=true" width="600" height="300">
 </p>
 
 ### <p style="text-align: right;">2023.1.19 Daniel Huang</p>
